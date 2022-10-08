@@ -1,6 +1,6 @@
 # Blackjack game 
 
-Game development in the course "JavaScript Moderno: Guia para dominar el lenguaje" of Fernando Herrera in Udemy.
+Game developed in the course "JavaScript Moderno: Guia para dominar el lenguaje" of Fernando Herrera in Udemy.
 
 ## Demo
 
